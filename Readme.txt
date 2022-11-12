@@ -1,6 +1,6 @@
 
 
-Template Name: LIT Tutorials
+Project Name: LIT Tutorials
 
 Author: Anil Kumar
 
